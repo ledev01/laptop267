@@ -1,0 +1,116 @@
+.header{
+    background-color: silver;
+    width : 100%;
+    height :130px;
+}
+.text-header{
+    padding-top:10px;
+    padding-left:30px;
+}
+.danhmuc a {
+    padding: 5px;
+}
+.footer{
+    margin-top : 100px;
+    background-color:  silver;
+    width : 100%;
+    height : 50px;
+}
+.footer2{
+
+    padding-left:30px;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.styled-table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #fff;
+}
+
+.styled-table th, .styled-table td {
+    padding: 12px 15px;
+    border: 1px solid #dddddd;
+    text-align: left;
+}
+
+.styled-table th {
+    background-color: silver;
+    color: black;
+}
+
+.styled-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+
+
+.styled-table a {
+    color: #007bff;
+    text-decoration: none;
+}
+input::placeholder {
+    
+ 
+    color: #888; /* Màu sắc của placeholder */
+        font-style: italic; /* Kiểu chữ */
+    }
+#diachi{
+    width:400px;
+}
+#phanquyen{
+    width:80px;
+}
+#matkhau{
+    width:200px;
+}
+#matkhaunhaplai{
+    width:200px;
+}
+#taikhoan{
+    width:200px;
+}
+#dienthoai{
+    width:150px;
+}
+#anh{
+    width:100%;
+    height:auto;
+}
+#img{
+    /* display: flex;
+    justify-content: center; */
+    width:320px;
+}
+#mieuta{
+    width:200px;
+}
+#chuthich{
+    width:200px;
+}
+#hanhdong{
+    width:80px;
+}
+#danhmuc{
+    width:150px;
+}
+#ipsanpham{
+    width:411px;
+}
+#ipmieuta{
+    margin-top:5px;
+    width:1000px;
+}
+#ipchuthich{
+    margin-top:5px;
+    width:1000px;
+}
+#ipgia{
+    width:222px;
+}
+#ippgia{
+    width:117px;
+}
